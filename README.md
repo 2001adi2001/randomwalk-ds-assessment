@@ -1,6 +1,6 @@
 # RandomWalk Data Science Assessment
 
-# Assessment Submitted By: Aditya Chaudhari
+# Assessment Submitted By:- Aditya Chaudhari
 ## [Demo Video](https://drive.google.com/file/d/1nBpVex30VhmGdH0NhM9AIGVnSlZ0xLKK/view?usp=sharing)
 
 ## Instructions:
